@@ -1,0 +1,2 @@
+/Users/shailesh99394gmail.com/Downloads/ChemIQ/Assets.xcassets: warning: Accent color ‘AccentColor’ is not present in any asset catalogs.
+2026-06-10 15:22:57.097 appintentsmetadataprocessor[43930:5012659] warning: Metadata extraction skipped. No AppIntents.framework dependency found.
